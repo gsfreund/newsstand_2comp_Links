@@ -1,1 +1,1 @@
-# newsstand_2comp_Links
+# This is C++ code to perform 3-dimensional rotations and re-arrangements of mathematical links by using sequences of letters rather than 3-dimensional coordinates. i.e Instead of motion along the coordinate system (0,0,0) to (0,0,1) we can describe the direction movement simply using the letter U representing the direction Up. Similary, we can describe traversing a 3-dimensional link structure by travelling either Up, Down, North, South, East, or West. I.e a circle can be described as DDEEUUWW
